@@ -4,4 +4,4 @@
 2. 提供两种主题颜色切换与静音模式
 3. 支持160种国内外常用颜色值
 [工具地址](color.clowntool.cn)
-![工具图片](blog.cclown.com/zb_users/upload/2020/02/202002271582805404220460.png)
+![工具图片](xiaoguo.png)
