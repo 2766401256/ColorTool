@@ -5,3 +5,4 @@
 3. 支持160种国内外常用颜色值
 [工具地址](color.clowntool.cn)
 ![xiaoguo.png](xiaoguo.png)
+### 对设计师来说极力推荐
